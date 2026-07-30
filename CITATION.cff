@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use CIRN in your research, please cite the software using these metadata."
+type: software
+title: "Classification-Based Inference of Regulatory Networks (CIRN)"
+abstract: >-
+  CIRN is an R-based framework for generating directed, signed, temporally
+  ordered, and uncertainty-aware regulatory hypotheses from single or
+  multivariate time-series data using Bayesian logistic regression with
+  lagged state, first-derivative, and second-derivative predictor
+  representations.
+authors:
+  - family-names: "Entero"
+    given-names: "Giovannie M."
+    affiliation: "University of the Philippines Los Baños"
+  - family-names: "Rabajante"
+    given-names: "Jomar F."
+    affiliation: "University of the Philippines Los Baños"
+  - family-names: "Egarguin"
+    given-names: "Neil Jerome A."
+    affiliation: "University of the Philippines Los Baños"
+  - family-names: "Cortez"
+    given-names: "Mark Jayson V."
+    affiliation: "University of the Philippines Los Baños"
+  - family-names: "Gavina"
+    given-names: "Maica Krizna A."
+    affiliation: "University of the Philippines Los Baños"
+  - family-names: "Sanchez"
+    given-names: "Patricia Ann J."
+    affiliation: "University of the Philippines Los Baños"
+contact:
+  - family-names: "Entero"
+    given-names: "Giovannie M."
+    email: "gmentero@up.edu.ph"
+  - family-names: "Rabajante"
+    given-names: "Jomar F."
+    email: "jfrabajante@up.edu.ph"
+repository-code: "https://github.com/gioentero/CIRN"
+url: "https://github.com/gioentero/CIRN"
+keywords:
+  - "regulatory network inference"
+  - "Bayesian logistic regression"
+  - "time-series data"
+  - "directed networks"
+  - "signed networks"
+  - "dynamical systems"
+  - "R"
+  - "Shiny"
