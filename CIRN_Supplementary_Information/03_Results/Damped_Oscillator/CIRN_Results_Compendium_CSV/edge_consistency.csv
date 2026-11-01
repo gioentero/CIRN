@@ -1,0 +1,3 @@
+"term","target","regulation_type","in_pairwise","in_sublevel","in_all_predictors","omega_pairwise","omega_sublevel","omega_all_predictors","abs_omega_pairwise","abs_omega_sublevel","abs_omega_all_predictors","regulation_type_pairwise","regulation_type_sublevel","regulation_type_all_predictors","n_sources","source_modes","appears_in_all_three","has_sign_conflict"
+"x","dx","inhibition",TRUE,TRUE,TRUE,-15.92931712275,-0.263768393798375,-15.92931712275,15.92931712275,0.263768393798375,15.92931712275,"inhibition","inhibition","inhibition",3,"all_predictors, pairwise, sublevel",TRUE,FALSE
+"x_d2","dx","inhibition",TRUE,FALSE,TRUE,-15.23867412875,NA,-15.23867412875,15.23867412875,NA,15.23867412875,"inhibition",NA,"inhibition",2,"all_predictors, pairwise",FALSE,FALSE

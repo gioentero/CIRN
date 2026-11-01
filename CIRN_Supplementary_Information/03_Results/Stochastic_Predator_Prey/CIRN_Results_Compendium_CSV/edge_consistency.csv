@@ -1,0 +1,11 @@
+"term","target","regulation_type","in_pairwise","in_sublevel","in_all_predictors","omega_pairwise","omega_sublevel","omega_all_predictors","abs_omega_pairwise","abs_omega_sublevel","abs_omega_all_predictors","regulation_type_pairwise","regulation_type_sublevel","regulation_type_all_predictors","n_sources","source_modes","appears_in_all_three","has_sign_conflict"
+"Y","dX","inhibition",TRUE,TRUE,TRUE,-3.3229943741,-3.17653565035,-3.4567228946625,3.3229943741,3.17653565035,3.4567228946625,"inhibition","inhibition","inhibition",3,"all_predictors, pairwise, sublevel",TRUE,FALSE
+"Y_d1","dX","inhibition",TRUE,TRUE,TRUE,-0.58073118162875,-0.135482343586474,-1.243627912565,0.58073118162875,0.135482343586474,1.243627912565,"inhibition","inhibition","inhibition",3,"all_predictors, pairwise, sublevel",TRUE,FALSE
+"Y_d2","dX","activation",TRUE,TRUE,TRUE,0.55294673869125,0.65635828785,0.374288561432234,0.55294673869125,0.65635828785,0.374288561432234,"activation","activation","activation",3,"all_predictors, pairwise, sublevel",TRUE,FALSE
+"X","dY","activation",TRUE,TRUE,TRUE,3.833201784175,3.804703989575,4.1671293140125,3.833201784175,3.804703989575,4.1671293140125,"activation","activation","activation",3,"all_predictors, pairwise, sublevel",TRUE,FALSE
+"X","dX","mixed",FALSE,TRUE,TRUE,NA,-0.196650119543372,0.6872636166828,NA,0.196650119543372,0.6872636166828,NA,"inhibition","activation",2,"all_predictors, sublevel",FALSE,TRUE
+"X_d2","dY","inhibition",TRUE,TRUE,FALSE,-0.51450432665125,-0.5674145884625,NA,0.51450432665125,0.5674145884625,NA,"inhibition","inhibition",NA,2,"pairwise, sublevel",FALSE,FALSE
+"X_d2","dX","activation",FALSE,TRUE,FALSE,NA,0.291598616066025,NA,NA,0.291598616066025,NA,NA,"activation",NA,1,"sublevel",FALSE,FALSE
+"X_d1","dY","inhibition",FALSE,FALSE,TRUE,NA,NA,-1.45975483596575,NA,NA,1.45975483596575,NA,NA,"inhibition",1,"all_predictors",FALSE,FALSE
+"Y","dY","inhibition",FALSE,FALSE,TRUE,NA,NA,-1.1843345932175,NA,NA,1.1843345932175,NA,NA,"inhibition",1,"all_predictors",FALSE,FALSE
+"Y_d2","dY","inhibition",FALSE,TRUE,FALSE,NA,-0.164415076481246,NA,NA,0.164415076481246,NA,NA,"inhibition",NA,1,"sublevel",FALSE,FALSE

@@ -1,0 +1,9 @@
+"term","target","regulation_type","in_pairwise","in_sublevel","in_all_predictors","omega_pairwise","omega_sublevel","omega_all_predictors","abs_omega_pairwise","abs_omega_sublevel","abs_omega_all_predictors","regulation_type_pairwise","regulation_type_sublevel","regulation_type_all_predictors","n_sources","source_modes","appears_in_all_three","has_sign_conflict"
+"X","dX","activation",TRUE,TRUE,TRUE,0.87988032042905,2.20313217665625,2.73098062503187,0.87988032042905,2.20313217665625,2.73098062503187,"activation","activation","activation",3,"all_predictors, pairwise, sublevel",TRUE,FALSE
+"Y","dX","activation",TRUE,TRUE,TRUE,5.5326070329625,5.7222062464625,5.387825328875,5.5326070329625,5.7222062464625,5.387825328875,"activation","activation","activation",3,"all_predictors, pairwise, sublevel",TRUE,FALSE
+"X","dY","inhibition",TRUE,TRUE,TRUE,-6.2224185147875,-6.3526069296,-5.54638518675,6.2224185147875,6.3526069296,5.54638518675,"inhibition","inhibition","inhibition",3,"all_predictors, pairwise, sublevel",TRUE,FALSE
+"Y_d2","dY","activation",TRUE,TRUE,TRUE,0.883985824631309,1.70631907814625,3.14824244124277,0.883985824631309,1.70631907814625,3.14824244124277,"activation","activation","activation",3,"all_predictors, pairwise, sublevel",TRUE,FALSE
+"Y_d2","dX","mixed",TRUE,TRUE,FALSE,2.81062599464745,-1.80013883659625,NA,2.81062599464745,1.80013883659625,NA,"activation","inhibition",NA,2,"pairwise, sublevel",FALSE,TRUE
+"X_d2","dY","mixed",TRUE,TRUE,FALSE,-2.41017038038646,1.550412106023,NA,2.41017038038646,1.550412106023,NA,"inhibition","activation",NA,2,"pairwise, sublevel",FALSE,TRUE
+"X_d2","dX","inhibition",FALSE,TRUE,FALSE,NA,-2.03103435755625,NA,NA,2.03103435755625,NA,NA,"inhibition",NA,1,"sublevel",FALSE,FALSE
+"Y_d1","dX","activation",TRUE,FALSE,FALSE,2.25823394194574,NA,NA,2.25823394194574,NA,NA,"activation",NA,NA,1,"pairwise",FALSE,FALSE

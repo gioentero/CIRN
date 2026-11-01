@@ -1,0 +1,13 @@
+"target","predictor_set","response_mode","response_label","response_source","dominant_direction","jitter_used","jitter_scale","jitter_scale_factor","jitter_basis","jitter_basis_value","jitter_attempts","predictor_jitter_used","predictor_jitter_scale_factor","predictor_jitter_variables","class_0_count","class_1_count","min_class_count","n_predictors","response_trigger","status","max_rhat","min_neff","loo_elpd"
+"λcl","original","directional","raw_first_derivative_direction","λcl_d1",-1,FALSE,NA,NA,NA,NA,NA,FALSE,NA,NA,44,35,35,3,"raw_directional","completed",1.00052790780004,0.445590689063297,NA
+"λcl","first_derivative","directional","raw_first_derivative_direction","λcl_d1",-1,FALSE,NA,NA,NA,NA,NA,FALSE,NA,NA,44,35,35,2,"raw_directional","completed",1.00072309450046,0.411855915116789,NA
+"λcl","second_derivative","directional","raw_first_derivative_direction","λcl_d1",-1,FALSE,NA,NA,NA,NA,NA,FALSE,NA,NA,44,35,35,3,"raw_directional","completed",1.00128267638327,0.453341314677184,NA
+"λcl","all_predictors","directional","raw_first_derivative_direction","λcl_d1",-1,FALSE,NA,NA,NA,NA,NA,FALSE,NA,NA,44,35,35,8,"raw_directional","completed",1.00190818207344,0.330800274695805,NA
+"LacI","original","directional","raw_first_derivative_direction","LacI_d1",-1,FALSE,NA,NA,NA,NA,NA,FALSE,NA,NA,41,38,38,3,"raw_directional","completed",1.0013430289259,0.35901047002107,NA
+"LacI","first_derivative","directional","raw_first_derivative_direction","LacI_d1",-1,FALSE,NA,NA,NA,NA,NA,FALSE,NA,NA,41,38,38,2,"raw_directional","completed",1.0011193700089,0.469770533560807,NA
+"LacI","second_derivative","directional","raw_first_derivative_direction","LacI_d1",-1,FALSE,NA,NA,NA,NA,NA,FALSE,NA,NA,41,38,38,3,"raw_directional","completed",1.00079278591431,0.393181458694831,NA
+"LacI","all_predictors","directional","raw_first_derivative_direction","LacI_d1",-1,FALSE,NA,NA,NA,NA,NA,FALSE,NA,NA,41,38,38,8,"raw_directional","completed",1.00161098817682,0.363144629052829,NA
+"TetR","original","directional","raw_first_derivative_direction","TetR_d1",-1,FALSE,NA,NA,NA,NA,NA,FALSE,NA,NA,55,24,24,3,"raw_directional","completed",1.00079908677862,0.421506827189151,NA
+"TetR","first_derivative","directional","raw_first_derivative_direction","TetR_d1",-1,FALSE,NA,NA,NA,NA,NA,FALSE,NA,NA,55,24,24,2,"raw_directional","completed",1.00049382460997,0.48748298685214,NA
+"TetR","second_derivative","directional","raw_first_derivative_direction","TetR_d1",-1,FALSE,NA,NA,NA,NA,NA,FALSE,NA,NA,55,24,24,3,"raw_directional","completed",1.00050987863118,0.486549833751036,NA
+"TetR","all_predictors","directional","raw_first_derivative_direction","TetR_d1",-1,FALSE,NA,NA,NA,NA,NA,FALSE,NA,NA,55,24,24,8,"raw_directional","completed",1.00120602459591,0.351422611913376,NA

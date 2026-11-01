@@ -1,0 +1,5 @@
+"target","predictor_set","term","vif","status","aliased","model_rank","model_columns","rank_deficient","note"
+"dx","original","x",NA,"single_predictor",FALSE,2,2,FALSE,"VIF requires at least two predictors."
+"dx","second_derivative","x_d2",NA,"single_predictor",FALSE,2,2,FALSE,"VIF requires at least two predictors."
+"dx","all_predictors","x",17.4619278899901,"severe_collinearity",FALSE,3,3,FALSE,"VIF computed successfully."
+"dx","all_predictors","x_d2",17.4619278899901,"severe_collinearity",FALSE,3,3,FALSE,"VIF computed successfully."

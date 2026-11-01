@@ -1,0 +1,9 @@
+"target","predictor_set","response_mode","response_label","response_source","dominant_direction","jitter_used","jitter_scale","jitter_scale_factor","jitter_basis","jitter_basis_value","jitter_attempts","predictor_jitter_used","predictor_jitter_scale_factor","predictor_jitter_variables","class_0_count","class_1_count","min_class_count","n_predictors","response_trigger","status","max_rhat","min_neff","loo_elpd"
+"X","original","directional","raw_first_derivative_direction","X_d1",1,FALSE,NA,NA,NA,NA,NA,FALSE,NA,NA,33,49,33,2,"raw_directional","completed",1.00395186982034,0.208634810926525,NA
+"X","first_derivative","directional","raw_first_derivative_direction","X_d1",1,FALSE,NA,NA,NA,NA,NA,FALSE,NA,NA,33,49,33,1,"raw_directional","completed",1.00226937916629,0.451305161097269,NA
+"X","second_derivative","directional","raw_first_derivative_direction","X_d1",1,FALSE,NA,NA,NA,NA,NA,FALSE,NA,NA,33,49,33,2,"raw_directional","completed",1.00100197899756,0.256620945154668,NA
+"X","all_predictors","directional","raw_first_derivative_direction","X_d1",1,FALSE,NA,NA,NA,NA,NA,FALSE,NA,NA,33,49,33,5,"raw_directional","completed",1.00137510258736,0.365358102436277,NA
+"Y","original","directional","raw_first_derivative_direction","Y_d1",-1,FALSE,NA,NA,NA,NA,NA,FALSE,NA,NA,51,31,31,2,"raw_directional","completed",1.00122226431829,0.295436944802747,NA
+"Y","first_derivative","directional","raw_first_derivative_direction","Y_d1",-1,FALSE,NA,NA,NA,NA,NA,FALSE,NA,NA,51,31,31,1,"raw_directional","completed",1.00120802785978,0.394378535629721,NA
+"Y","second_derivative","directional","raw_first_derivative_direction","Y_d1",-1,FALSE,NA,NA,NA,NA,NA,FALSE,NA,NA,51,31,31,2,"raw_directional","completed",1.00199307434016,0.250615841902689,NA
+"Y","all_predictors","directional","raw_first_derivative_direction","Y_d1",-1,FALSE,NA,NA,NA,NA,NA,FALSE,NA,NA,51,31,31,5,"raw_directional","completed",1.00068192661898,0.38553795478661,NA

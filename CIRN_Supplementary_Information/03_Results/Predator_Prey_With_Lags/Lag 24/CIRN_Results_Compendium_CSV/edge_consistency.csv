@@ -1,0 +1,10 @@
+"term","target","regulation_type","in_pairwise","in_sublevel","in_all_predictors","omega_pairwise","omega_sublevel","omega_all_predictors","abs_omega_pairwise","abs_omega_sublevel","abs_omega_all_predictors","regulation_type_pairwise","regulation_type_sublevel","regulation_type_all_predictors","n_sources","source_modes","appears_in_all_three","has_sign_conflict"
+"Y","dX","inhibition",TRUE,TRUE,TRUE,-3.38928626846337,-2.7598018467425,-3.58342357177162,3.38928626846337,2.7598018467425,3.58342357177162,"inhibition","inhibition","inhibition",3,"all_predictors, pairwise, sublevel",TRUE,FALSE
+"Y_d1","dX","activation",TRUE,TRUE,TRUE,4.8949388528625,4.7480264975125,3.77608938662764,4.8949388528625,4.7480264975125,3.77608938662764,"activation","activation","activation",3,"all_predictors, pairwise, sublevel",TRUE,FALSE
+"X","dY","activation",TRUE,TRUE,TRUE,4.0109932700875,3.1446879469075,3.73905468630375,4.0109932700875,3.1446879469075,3.73905468630375,"activation","activation","activation",3,"all_predictors, pairwise, sublevel",TRUE,FALSE
+"Y","dY","activation",TRUE,TRUE,TRUE,2.63454174501875,4.09405713345,3.56933435444288,2.63454174501875,4.09405713345,3.56933435444288,"activation","activation","activation",3,"all_predictors, pairwise, sublevel",TRUE,FALSE
+"X","dX","activation",TRUE,TRUE,FALSE,5.0962106739625,5.3046585457,NA,5.0962106739625,5.3046585457,NA,"activation","activation",NA,2,"pairwise, sublevel",FALSE,FALSE
+"X_d2","dX","inhibition",TRUE,TRUE,FALSE,-3.4925297581875,-2.195605429184,NA,3.4925297581875,2.195605429184,NA,"inhibition","inhibition",NA,2,"pairwise, sublevel",FALSE,FALSE
+"X_d1","dY","inhibition",TRUE,TRUE,FALSE,-4.8407503081125,-1.8764192885625,NA,4.8407503081125,1.8764192885625,NA,"inhibition","inhibition",NA,2,"pairwise, sublevel",FALSE,FALSE
+"Y_d2","dY","inhibition",TRUE,TRUE,FALSE,-1.04779998823808,-3.5238606105875,NA,1.04779998823808,3.5238606105875,NA,"inhibition","inhibition",NA,2,"pairwise, sublevel",FALSE,FALSE
+"X_d2","dY","inhibition",FALSE,TRUE,FALSE,NA,-2.9102397259,NA,NA,2.9102397259,NA,NA,"inhibition",NA,1,"sublevel",FALSE,FALSE

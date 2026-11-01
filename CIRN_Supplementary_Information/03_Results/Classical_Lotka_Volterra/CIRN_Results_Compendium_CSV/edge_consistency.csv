@@ -1,0 +1,11 @@
+"term","target","regulation_type","in_pairwise","in_sublevel","in_all_predictors","omega_pairwise","omega_sublevel","omega_all_predictors","abs_omega_pairwise","abs_omega_sublevel","abs_omega_all_predictors","regulation_type_pairwise","regulation_type_sublevel","regulation_type_all_predictors","n_sources","source_modes","appears_in_all_three","has_sign_conflict"
+"Y","dX","inhibition",TRUE,TRUE,TRUE,-6.09362445375,-5.854965533675,-5.847895308625,6.09362445375,5.854965533675,5.847895308625,"inhibition","inhibition","inhibition",3,"all_predictors, pairwise, sublevel",TRUE,FALSE
+"X","dY","activation",TRUE,TRUE,TRUE,5.7494635945125,5.5708507629,5.8377202116625,5.7494635945125,5.5708507629,5.8377202116625,"activation","activation","activation",3,"all_predictors, pairwise, sublevel",TRUE,FALSE
+"X","dX","inhibition",TRUE,TRUE,FALSE,-0.422319144046959,-1.28984932105232,NA,0.422319144046959,1.28984932105232,NA,"inhibition","inhibition",NA,2,"pairwise, sublevel",FALSE,FALSE
+"Y_d2","dX","activation",TRUE,TRUE,FALSE,1.1153020095325,3.303262568,NA,1.1153020095325,3.303262568,NA,"activation","activation",NA,2,"pairwise, sublevel",FALSE,FALSE
+"X_d1","dY","activation",TRUE,TRUE,FALSE,1.412656015854,0.490792983201259,NA,1.412656015854,0.490792983201259,NA,"activation","activation",NA,2,"pairwise, sublevel",FALSE,FALSE
+"X_d2","dY","inhibition",TRUE,TRUE,FALSE,-1.98080227182375,-2.2875142937725,NA,1.98080227182375,2.2875142937725,NA,"inhibition","inhibition",NA,2,"pairwise, sublevel",FALSE,FALSE
+"Y","dY","inhibition",TRUE,TRUE,FALSE,-0.501686335972077,-1.64154662098662,NA,0.501686335972077,1.64154662098662,NA,"inhibition","inhibition",NA,2,"pairwise, sublevel",FALSE,FALSE
+"X_d2","dX","activation",FALSE,TRUE,FALSE,NA,2.23099712626375,NA,NA,2.23099712626375,NA,NA,"activation",NA,1,"sublevel",FALSE,FALSE
+"Y_d1","dX","inhibition",TRUE,FALSE,FALSE,-1.18828156970046,NA,NA,1.18828156970046,NA,NA,"inhibition",NA,NA,1,"pairwise",FALSE,FALSE
+"Y_d2","dY","activation",TRUE,FALSE,FALSE,0.55089582569179,NA,NA,0.55089582569179,NA,NA,"activation",NA,NA,1,"pairwise",FALSE,FALSE

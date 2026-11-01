@@ -1,0 +1,18 @@
+"term","target","regulation_type","in_pairwise","in_sublevel","in_all_predictors","omega_pairwise","omega_sublevel","omega_all_predictors","abs_omega_pairwise","abs_omega_sublevel","abs_omega_all_predictors","regulation_type_pairwise","regulation_type_sublevel","regulation_type_all_predictors","n_sources","source_modes","appears_in_all_three","has_sign_conflict"
+"LacI","dLacI","inhibition",TRUE,TRUE,TRUE,-1.27758753446875,-1.26281210704432,-1.97906754297788,1.27758753446875,1.26281210704432,1.97906754297788,"inhibition","inhibition","inhibition",3,"all_predictors, pairwise, sublevel",TRUE,FALSE
+"TetR","dLacI","inhibition",TRUE,TRUE,TRUE,-3.7957715631375,-3.832908737865,-3.97093141825125,3.7957715631375,3.832908737865,3.97093141825125,"inhibition","inhibition","inhibition",3,"all_predictors, pairwise, sublevel",TRUE,FALSE
+"TetR","dTetR","inhibition",TRUE,TRUE,TRUE,-0.923075534254343,-1.06191563667186,-1.64988869823107,0.923075534254343,1.06191563667186,1.64988869823107,"inhibition","inhibition","inhibition",3,"all_predictors, pairwise, sublevel",TRUE,FALSE
+"λcl_d1","dTetR","inhibition",TRUE,TRUE,TRUE,-2.25208537181538,-0.656290150786679,-1.91824052591291,2.25208537181538,0.656290150786679,1.91824052591291,"inhibition","inhibition","inhibition",3,"all_predictors, pairwise, sublevel",TRUE,FALSE
+"LacI","dλcl","inhibition",TRUE,TRUE,TRUE,-1.6053811764602,-1.14284682642646,-2.13382267213075,1.6053811764602,1.14284682642646,2.13382267213075,"inhibition","inhibition","inhibition",3,"all_predictors, pairwise, sublevel",TRUE,FALSE
+"LacI_d1","dλcl","inhibition",TRUE,TRUE,TRUE,-2.87299498655625,-2.6091846277825,-2.72338101970213,2.87299498655625,2.6091846277825,2.72338101970213,"inhibition","inhibition","inhibition",3,"all_predictors, pairwise, sublevel",TRUE,FALSE
+"λcl","dλcl","inhibition",TRUE,TRUE,TRUE,-0.99223886734715,-1.13012351965475,-1.36726990985367,0.99223886734715,1.13012351965475,1.36726990985367,"inhibition","inhibition","inhibition",3,"all_predictors, pairwise, sublevel",TRUE,FALSE
+"λcl_d1","dLacI","inhibition",TRUE,FALSE,TRUE,-1.94787250095538,NA,-2.16696292631472,1.94787250095538,NA,2.16696292631472,"inhibition",NA,"inhibition",2,"all_predictors, pairwise",FALSE,FALSE
+"LacI","dTetR","activation",TRUE,TRUE,FALSE,1.240568933748,1.08242758494255,NA,1.240568933748,1.08242758494255,NA,"activation","activation",NA,2,"pairwise, sublevel",FALSE,FALSE
+"LacI_d2","dTetR","inhibition",TRUE,TRUE,FALSE,-0.833042983663237,-0.907176473844675,NA,0.833042983663237,0.907176473844675,NA,"inhibition","inhibition",NA,2,"pairwise, sublevel",FALSE,FALSE
+"λcl","dTetR","inhibition",TRUE,FALSE,TRUE,-2.32328234218,NA,-2.0336296076996,2.32328234218,NA,2.0336296076996,"inhibition",NA,"inhibition",2,"all_predictors, pairwise",FALSE,FALSE
+"TetR","dλcl","activation",TRUE,TRUE,FALSE,3.0398768673825,1.22733070890244,NA,3.0398768673825,1.22733070890244,NA,"activation","activation",NA,2,"pairwise, sublevel",FALSE,FALSE
+"TetR_d1","dλcl","inhibition",TRUE,TRUE,FALSE,-1.05191515842301,-1.41391700510375,NA,1.05191515842301,1.41391700510375,NA,"inhibition","inhibition",NA,2,"pairwise, sublevel",FALSE,FALSE
+"TetR_d2","dλcl","activation",TRUE,FALSE,TRUE,2.0525972742885,NA,1.44876375179837,2.0525972742885,NA,1.44876375179837,"activation",NA,"activation",2,"all_predictors, pairwise",FALSE,FALSE
+"λcl","dLacI","activation",TRUE,FALSE,FALSE,3.8415898135375,NA,NA,3.8415898135375,NA,NA,"activation",NA,NA,1,"pairwise",FALSE,FALSE
+"λcl_d2","dLacI","activation",TRUE,FALSE,FALSE,1.28217824857362,NA,NA,1.28217824857362,NA,NA,"activation",NA,NA,1,"pairwise",FALSE,FALSE
+"LacI_d1","dTetR","activation",TRUE,FALSE,FALSE,0.605120831527631,NA,NA,0.605120831527631,NA,NA,"activation",NA,NA,1,"pairwise",FALSE,FALSE

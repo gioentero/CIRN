@@ -1,0 +1,11 @@
+"term","target","regulation_type","in_pairwise","in_sublevel","in_all_predictors","omega_pairwise","omega_sublevel","omega_all_predictors","abs_omega_pairwise","abs_omega_sublevel","abs_omega_all_predictors","regulation_type_pairwise","regulation_type_sublevel","regulation_type_all_predictors","n_sources","source_modes","appears_in_all_three","has_sign_conflict"
+"X","dX","inhibition",TRUE,TRUE,TRUE,-1.06835775448875,-2.53534796275125,-2.21952165427735,1.06835775448875,2.53534796275125,2.21952165427735,"inhibition","inhibition","inhibition",3,"all_predictors, pairwise, sublevel",TRUE,FALSE
+"Y","dX","inhibition",TRUE,TRUE,TRUE,-5.6974536073875,-5.4048586396,-5.5807023754625,5.6974536073875,5.4048586396,5.5807023754625,"inhibition","inhibition","inhibition",3,"all_predictors, pairwise, sublevel",TRUE,FALSE
+"X","dY","activation",TRUE,TRUE,TRUE,4.67221013290125,4.527556096075,5.022521835875,4.67221013290125,4.527556096075,5.022521835875,"activation","activation","activation",3,"all_predictors, pairwise, sublevel",TRUE,FALSE
+"Y_d1","dX","inhibition",TRUE,TRUE,FALSE,-2.7920697411425,-0.59597836357765,NA,2.7920697411425,0.59597836357765,NA,"inhibition","inhibition",NA,2,"pairwise, sublevel",FALSE,FALSE
+"Y_d2","dX","activation",TRUE,TRUE,FALSE,0.9256324068159,3.3881583375525,NA,0.9256324068159,3.3881583375525,NA,"activation","activation",NA,2,"pairwise, sublevel",FALSE,FALSE
+"X_d1","dY","activation",TRUE,TRUE,FALSE,3.5514646101125,1.63083616206,NA,3.5514646101125,1.63083616206,NA,"activation","activation",NA,2,"pairwise, sublevel",FALSE,FALSE
+"X_d2","dY","inhibition",TRUE,TRUE,FALSE,-1.56650223036125,-1.3564701845915,NA,1.56650223036125,1.3564701845915,NA,"inhibition","inhibition",NA,2,"pairwise, sublevel",FALSE,FALSE
+"Y","dY","inhibition",TRUE,TRUE,FALSE,-1.30431490613375,-3.4353056945375,NA,1.30431490613375,3.4353056945375,NA,"inhibition","inhibition",NA,2,"pairwise, sublevel",FALSE,FALSE
+"Y_d2","dY","activation",TRUE,TRUE,FALSE,2.27882738749663,1.62618857472187,NA,2.27882738749663,1.62618857472187,NA,"activation","activation",NA,2,"pairwise, sublevel",FALSE,FALSE
+"X_d2","dX","activation",FALSE,TRUE,FALSE,NA,2.781804298275,NA,NA,2.781804298275,NA,NA,"activation",NA,1,"sublevel",FALSE,FALSE
